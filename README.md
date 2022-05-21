@@ -31,6 +31,10 @@
 - https://developers.elementor.com/docs/widgets/widget-settings/
 - https://github.com/elementor/elementor/issues/9208#issuecomment-753969073
 
+- `render()` – PHP template to frontend.
+- `_content_template()` – JS template to admin editor.
+
+Rendering Different Controls
 ## Hooks
 
 - PHP https://developers.elementor.com/docs/hooks/php/
